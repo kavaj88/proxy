@@ -9,6 +9,9 @@
 下载即可免费授权使用
 非法使用，后果自负
 
+下载地址：
+https://github.com/kavaj88/proxy/releases/tag/v1.0
+
 有问题联系 公众号 击水飞舟
 
 ![](18558aea939849da73475721641e555c.png)
